@@ -1,0 +1,12 @@
+.intro {
+  color: red;
+}
+
+p.intro{
+  font-style: italic;
+}
+
+h2.intro{
+  font-size: large;
+  text-align: center;
+}
